@@ -1,1 +1,1 @@
-# spaceship-complete
+# spaceship-game-v2
